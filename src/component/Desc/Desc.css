@@ -1,0 +1,9 @@
+.desc{
+  border: 1px solid;
+}
+.desc-btn{
+  display: flex;
+  justify-content: center ;
+  gap: 1rem;
+  
+}
